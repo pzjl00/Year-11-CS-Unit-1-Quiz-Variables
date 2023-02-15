@@ -27,7 +27,7 @@ System.out.println(++letter);
 System.out.println((int)++letter);
         // 12.
         /**
-         * when casing the variable letter to an integer, the integer printed was the number associated with the character. For example, 65 corresponds to the letter A.
+         * when casting the variable letter to an integer, the integer printed was the number associated with the character. For example, 65 corresponds to the letter A.
          */
 
     }
